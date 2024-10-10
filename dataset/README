@@ -1,0 +1,7 @@
+These are the short stories of O. Henry in English and Rusiian collected from different sources. I did not translate them. 
+In 2 txt files, there are around 30 stories in each file. 
+In Dataset file, there are only 3-4 stories but almost each sentence is in each row. 
+In 1st column you can find English version of the sentence and in the 2nd column the Russian translation of the sentence.
+
+The dataset is not perfert and quite small.
+I am going to update all my files adding more stories. But for now, please feel free to use it. 
